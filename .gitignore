@@ -1,0 +1,11 @@
+*.cmi
+*.cmx
+*.o
+
+simp
+multigrid
+
+*.aux
+*.lof
+*.toc
+readme.log
