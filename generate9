@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# Generate data
+
+    for nu1 in 100
+    do
+        for nu2 in 100
+        do
+            for size in 9 17 33 65 129 257
+            do
+cmd="./multigrid -nu1 $nu1 -nu2 $nu2 -size $size -multigrid mucycle"
+echo "$cmd"
+$cmd
+            done
+        done
+    done > $0.log

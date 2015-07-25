@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# Generate data
+
+# Gauss-Seidel (awful)
+
+        for iterations in 300 500 700 900 1100 1300
+        do
+            for size in 9 17 33 65 129 257
+            do
+cmd="./multigrid -iterations $iterations -size $size -multigrid gs"
+echo "$cmd"
+$cmd
+            done
+        done > $0.log

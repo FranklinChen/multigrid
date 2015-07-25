@@ -1,0 +1,12 @@
+Shape {
+   appearance Appearance {
+      material Material { diffuseColor 1 1 0 }
+   }
+   geometry ElevationGrid {
+      height [ 4, 3, 2, 3, 5, 4, 1, 3, 6 ]
+      xDimension 3
+      zDimension 3
+      xSpacing 3
+      zSpacing 2
+   }
+}

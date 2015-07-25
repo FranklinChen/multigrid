@@ -1,0 +1,96 @@
+./multigrid -nu1 20 -nu2 20 -size 9 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.000006
+Good = no
+./multigrid -nu1 20 -nu2 20 -size 17 -multigrid mucycle
+Time = 0.040000
+Relative residual = 0.000177
+Good = no
+./multigrid -nu1 20 -nu2 20 -size 33 -multigrid mucycle
+Time = 0.150000
+Relative residual = 0.000618
+Good = no
+./multigrid -nu1 20 -nu2 20 -size 65 -multigrid mucycle
+Time = 0.620000
+Relative residual = 0.001385
+Good = no
+./multigrid -nu1 20 -nu2 20 -size 129 -multigrid mucycle
+Time = 2.540000
+Relative residual = 0.002819
+Good = no
+./multigrid -nu1 20 -nu2 20 -size 257 -multigrid mucycle
+Time = 10.280000
+Relative residual = 0.005615
+Good = no
+./multigrid -nu1 20 -nu2 30 -size 9 -multigrid mucycle
+Time = 0.020000
+Relative residual = 0.000001
+Good = no
+./multigrid -nu1 20 -nu2 30 -size 17 -multigrid mucycle
+Time = 0.050000
+Relative residual = 0.000063
+Good = no
+./multigrid -nu1 20 -nu2 30 -size 33 -multigrid mucycle
+Time = 0.190000
+Relative residual = 0.000287
+Good = no
+./multigrid -nu1 20 -nu2 30 -size 65 -multigrid mucycle
+Time = 0.750000
+Relative residual = 0.000656
+Good = no
+./multigrid -nu1 20 -nu2 30 -size 129 -multigrid mucycle
+Time = 3.160000
+Relative residual = 0.001327
+Good = no
+./multigrid -nu1 20 -nu2 30 -size 257 -multigrid mucycle
+Time = 13.190000
+Relative residual = 0.002620
+Good = no
+./multigrid -nu1 30 -nu2 20 -size 9 -multigrid mucycle
+Time = 0.020000
+Relative residual = 0.000001
+Good = no
+./multigrid -nu1 30 -nu2 20 -size 17 -multigrid mucycle
+Time = 0.040000
+Relative residual = 0.000063
+Good = no
+./multigrid -nu1 30 -nu2 20 -size 33 -multigrid mucycle
+Time = 0.190000
+Relative residual = 0.000287
+Good = no
+./multigrid -nu1 30 -nu2 20 -size 65 -multigrid mucycle
+Time = 0.760000
+Relative residual = 0.000656
+Good = no
+./multigrid -nu1 30 -nu2 20 -size 129 -multigrid mucycle
+Time = 3.230000
+Relative residual = 0.001327
+Good = no
+./multigrid -nu1 30 -nu2 20 -size 257 -multigrid mucycle
+Time = 13.230000
+Relative residual = 0.002620
+Good = no
+./multigrid -nu1 30 -nu2 30 -size 9 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.000000
+Good = yes
+./multigrid -nu1 30 -nu2 30 -size 17 -multigrid mucycle
+Time = 0.060000
+Relative residual = 0.000024
+Good = no
+./multigrid -nu1 30 -nu2 30 -size 33 -multigrid mucycle
+Time = 0.220000
+Relative residual = 0.000154
+Good = no
+./multigrid -nu1 30 -nu2 30 -size 65 -multigrid mucycle
+Time = 0.930000
+Relative residual = 0.000360
+Good = no
+./multigrid -nu1 30 -nu2 30 -size 129 -multigrid mucycle
+Time = 3.840000
+Relative residual = 0.000722
+Good = no
+./multigrid -nu1 30 -nu2 30 -size 257 -multigrid mucycle
+Time = 15.530000
+Relative residual = 0.001411
+Good = no

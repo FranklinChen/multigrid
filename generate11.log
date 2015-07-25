@@ -1,0 +1,141 @@
+./multigrid -iterations 300 -size 9 -multigrid gs
+Time = 0.050000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 300 -size 17 -multigrid gs
+Time = 0.200000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 300 -size 33 -multigrid gs
+Time = 0.840000
+Relative residual = 0.012435
+Good = no
+./multigrid -iterations 300 -size 65 -multigrid gs
+Time = 3.530000
+Relative residual = 0.259165
+Good = no
+./multigrid -iterations 300 -size 129 -multigrid gs
+Time = 14.110000
+Relative residual = 0.662275
+Good = no
+./multigrid -iterations 300 -size 257 -multigrid gs
+Time = 59.700000
+Relative residual = 1.091122
+Good = no
+./multigrid -iterations 500 -size 9 -multigrid gs
+Time = 0.080000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 500 -size 17 -multigrid gs
+Time = 0.340000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 500 -size 33 -multigrid gs
+Time = 1.380000
+Relative residual = 0.001744
+Good = no
+./multigrid -iterations 500 -size 65 -multigrid gs
+Time = 5.720000
+Relative residual = 0.147291
+Good = no
+./multigrid -iterations 500 -size 129 -multigrid gs
+Time = 23.120000
+Relative residual = 0.520883
+Good = no
+./multigrid -iterations 500 -size 257 -multigrid gs
+Time = 98.270000
+Relative residual = 0.870391
+Good = no
+./multigrid -iterations 700 -size 9 -multigrid gs
+Time = 0.100000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 700 -size 17 -multigrid gs
+Time = 0.460000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 700 -size 33 -multigrid gs
+Time = 1.930000
+Relative residual = 0.000253
+Good = no
+./multigrid -iterations 700 -size 65 -multigrid gs
+Time = 7.960000
+Relative residual = 0.087933
+Good = no
+./multigrid -iterations 700 -size 129 -multigrid gs
+Time = 33.060000
+Relative residual = 0.441433
+Good = no
+./multigrid -iterations 700 -size 257 -multigrid gs
+Time = 136.510000
+Relative residual = 0.780864
+Good = no
+./multigrid -iterations 900 -size 9 -multigrid gs
+Time = 0.140000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 900 -size 17 -multigrid gs
+Time = 0.590000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 900 -size 33 -multigrid gs
+Time = 2.450000
+Relative residual = 0.000037
+Good = no
+./multigrid -iterations 900 -size 65 -multigrid gs
+Time = 10.150000
+Relative residual = 0.053448
+Good = no
+./multigrid -iterations 900 -size 129 -multigrid gs
+Time = 43.360000
+Relative residual = 0.382552
+Good = no
+./multigrid -iterations 900 -size 257 -multigrid gs
+Time = 178.970000
+Relative residual = 0.726348
+Good = no
+./multigrid -iterations 1100 -size 9 -multigrid gs
+Time = 0.160000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 1100 -size 17 -multigrid gs
+Time = 0.730000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 1100 -size 33 -multigrid gs
+Time = 3.010000
+Relative residual = 0.000005
+Good = no
+./multigrid -iterations 1100 -size 65 -multigrid gs
+Time = 12.650000
+Relative residual = 0.032756
+Good = no
+./multigrid -iterations 1100 -size 129 -multigrid gs
+Time = 52.090000
+Relative residual = 0.334631
+Good = no
+./multigrid -iterations 1100 -size 257 -multigrid gs
+Time = 217.030000
+Relative residual = 0.686044
+Good = no
+./multigrid -iterations 1300 -size 9 -multigrid gs
+Time = 0.180000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 1300 -size 17 -multigrid gs
+Time = 0.940000
+Relative residual = 0.000000
+Good = yes
+./multigrid -iterations 1300 -size 33 -multigrid gs
+Time = 3.550000
+Relative residual = 0.000001
+Good = yes
+./multigrid -iterations 1300 -size 65 -multigrid gs
+Time = 15.470000
+Relative residual = 0.020155
+Good = no
+./multigrid -iterations 1300 -size 129 -multigrid gs
+Time = 61.750000
+Relative residual = 0.294079
+Good = no
+./multigrid -iterations 1300 -size 257 -multigrid gs

@@ -1,0 +1,24 @@
+./multigrid -nu1 150 -nu2 150 -size 9 -multigrid mucycle
+Time = 0.050000
+Relative residual = 0.000000
+Good = yes
+./multigrid -nu1 150 -nu2 150 -size 17 -multigrid mucycle
+Time = 0.260000
+Relative residual = 0.000000
+Good = yes
+./multigrid -nu1 150 -nu2 150 -size 33 -multigrid mucycle
+Time = 1.040000
+Relative residual = 0.000001
+Good = yes
+./multigrid -nu1 150 -nu2 150 -size 65 -multigrid mucycle
+Time = 4.470000
+Relative residual = 0.000003
+Good = no
+./multigrid -nu1 150 -nu2 150 -size 129 -multigrid mucycle
+Time = 18.340000
+Relative residual = 0.000006
+Good = no
+./multigrid -nu1 150 -nu2 150 -size 257 -multigrid mucycle
+Time = 76.880000
+Relative residual = 0.000009
+Good = no

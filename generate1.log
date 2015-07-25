@@ -1,0 +1,192 @@
+./multigrid -nu0 3 -nu1 3 -nu2 3 -size 9 -multigrid mucycle
+Time = 0.000000
+Relative residual = 0.082802
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 3 -size 17 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.313039
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 3 -size 33 -multigrid mucycle
+Time = 0.030000
+Relative residual = 0.824774
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 3 -size 65 -multigrid mucycle
+Time = 0.110000
+Relative residual = 1.878341
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 3 -size 129 -multigrid mucycle
+Time = 0.450000
+Relative residual = 4.001555
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 3 -size 257 -multigrid mucycle
+Time = 1.880000
+Relative residual = 8.256268
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 4 -size 9 -multigrid mucycle
+Time = 0.000000
+Relative residual = 0.041841
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 4 -size 17 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.153894
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 4 -size 33 -multigrid mucycle
+Time = 0.040000
+Relative residual = 0.395453
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 4 -size 65 -multigrid mucycle
+Time = 0.130000
+Relative residual = 0.887847
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 4 -size 129 -multigrid mucycle
+Time = 0.520000
+Relative residual = 1.876932
+Good = no
+./multigrid -nu0 3 -nu1 3 -nu2 4 -size 257 -multigrid mucycle
+Time = 2.140000
+Relative residual = 3.856896
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 3 -size 9 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.041396
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 3 -size 17 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.158527
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 3 -size 33 -multigrid mucycle
+Time = 0.040000
+Relative residual = 0.417716
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 3 -size 65 -multigrid mucycle
+Time = 0.130000
+Relative residual = 0.950488
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 3 -size 129 -multigrid mucycle
+Time = 0.520000
+Relative residual = 2.023538
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 3 -size 257 -multigrid mucycle
+Time = 2.120000
+Relative residual = 4.173414
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 4 -size 9 -multigrid mucycle
+Time = 0.000000
+Relative residual = 0.022515
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 4 -size 17 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.083253
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 4 -size 33 -multigrid mucycle
+Time = 0.040000
+Relative residual = 0.211917
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 4 -size 65 -multigrid mucycle
+Time = 0.150000
+Relative residual = 0.472595
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 4 -size 129 -multigrid mucycle
+Time = 0.570000
+Relative residual = 0.995137
+Good = no
+./multigrid -nu0 3 -nu1 4 -nu2 4 -size 257 -multigrid mucycle
+Time = 2.400000
+Relative residual = 2.040459
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 3 -size 9 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.082802
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 3 -size 17 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.313039
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 3 -size 33 -multigrid mucycle
+Time = 0.030000
+Relative residual = 0.824774
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 3 -size 65 -multigrid mucycle
+Time = 0.110000
+Relative residual = 1.878341
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 3 -size 129 -multigrid mucycle
+Time = 0.460000
+Relative residual = 4.001555
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 3 -size 257 -multigrid mucycle
+Time = 1.880000
+Relative residual = 8.256268
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 4 -size 9 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.041841
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 4 -size 17 -multigrid mucycle
+Time = 0.020000
+Relative residual = 0.153894
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 4 -size 33 -multigrid mucycle
+Time = 0.030000
+Relative residual = 0.395453
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 4 -size 65 -multigrid mucycle
+Time = 0.130000
+Relative residual = 0.887847
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 4 -size 129 -multigrid mucycle
+Time = 0.520000
+Relative residual = 1.876932
+Good = no
+./multigrid -nu0 4 -nu1 3 -nu2 4 -size 257 -multigrid mucycle
+Time = 2.190000
+Relative residual = 3.856896
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 3 -size 9 -multigrid mucycle
+Time = 0.000000
+Relative residual = 0.041396
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 3 -size 17 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.158527
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 3 -size 33 -multigrid mucycle
+Time = 0.040000
+Relative residual = 0.417716
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 3 -size 65 -multigrid mucycle
+Time = 0.120000
+Relative residual = 0.950488
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 3 -size 129 -multigrid mucycle
+Time = 0.520000
+Relative residual = 2.023538
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 3 -size 257 -multigrid mucycle
+Time = 2.170000
+Relative residual = 4.173414
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 4 -size 9 -multigrid mucycle
+Time = 0.000000
+Relative residual = 0.022515
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 4 -size 17 -multigrid mucycle
+Time = 0.010000
+Relative residual = 0.083253
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 4 -size 33 -multigrid mucycle
+Time = 0.040000
+Relative residual = 0.211917
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 4 -size 65 -multigrid mucycle
+Time = 0.140000
+Relative residual = 0.472595
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 4 -size 129 -multigrid mucycle
+Time = 0.590000
+Relative residual = 0.995137
+Good = no
+./multigrid -nu0 4 -nu1 4 -nu2 4 -size 257 -multigrid mucycle
+Time = 2.420000
+Relative residual = 2.040459
+Good = no

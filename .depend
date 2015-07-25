@@ -1,0 +1,14 @@
+globals.cmo: globals.cmi 
+globals.cmx: globals.cmi 
+grid.cmo: grid.cmi 
+grid.cmx: grid.cmi 
+main.cmo: cpu.cmo globals.cmi grid.cmi multigrid.cmi options.cmi relax.cmi 
+main.cmx: cpu.cmx globals.cmx grid.cmx multigrid.cmx options.cmx relax.cmx 
+multigrid.cmo: globals.cmi grid.cmi relax.cmi multigrid.cmi 
+multigrid.cmx: globals.cmx grid.cmx relax.cmx multigrid.cmi 
+options.cmo: globals.cmi relax.cmi options.cmi 
+options.cmx: globals.cmx relax.cmx options.cmi 
+relax.cmo: globals.cmi grid.cmi relax.cmi 
+relax.cmx: globals.cmx grid.cmx relax.cmi 
+simp.cmo: cpu.cmo 
+simp.cmx: cpu.cmx 

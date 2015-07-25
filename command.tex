@@ -1,0 +1,40 @@
+\begin{verbatim}
+Usage:
+  -escape Escape from algorithm when relative residual small?
+        Default = false
+  -debug Debugging level
+        Default = 0
+        0 = no debug
+        1 = output initial and final states
+        2 = output after every relaxation step
+        3 = output after each read and black step of Gauss-Seidel
+        4 = output full multigrid residual and its restriction
+  -nu0 Number of mu-cycles for each phase of full multigrid
+        Default = 1
+  -nu1 Number of pre-cycle relaxation steps in mu-cycle
+        Default = 1
+  -nu2 Number of post-cycle relaxation steps in mu-cycle
+        Default = 1
+  -mu Number of recursive calls in a mu-cycle
+        Default = 1
+  -coarse Size of coarsest grid base case (2^k+1)
+        Default = 3
+  -size Size of finest grid base case (2^k+1)
+        Default = 9
+  -omega Weight for relaxation method (in (0, 1])
+        Default = 0.666666666667
+  -relax Relaxation method (gs or jacobi)
+        Default = gs
+        gs = Gauss-Seidel
+        jacobi = Jacobi
+  -multigrid Overall method
+        Default = full
+        full = full multigrid
+        mucycle = mu-cycle
+        gs = Gauss-Seidel
+        jacobi = Jacobi
+
+  -iterations Number of iterations of relaxation
+        Default = 1000
+        (Only applicable to -multigrid gs|jacobi)
+\end{verbatim}
